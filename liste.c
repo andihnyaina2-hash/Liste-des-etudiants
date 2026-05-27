@@ -8,7 +8,7 @@
 		char adresse[100];
 	};
 void etudiant(struct etudiant *L);
-void stockprint(FILE *f,struct etudiant *l);	
+char stockprint(FILE *f,struct etudiant *l);	
 void etudiant(struct etudiant *L)
 { 
 	//insertion de l'identite del'etudiant
