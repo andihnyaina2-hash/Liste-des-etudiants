@@ -7,7 +7,7 @@
                 int day;
                 int month;
                 int year;
-        };
+    };
 
 	struct etudiant 
 	{
